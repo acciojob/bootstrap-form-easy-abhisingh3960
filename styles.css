@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+.main-container{
+	border:1px solid black;
+	display:column;
+}
+.part1{
+	/* display:flex; */
+	
+}
+h3{
+	text-align:center;
+}
+
